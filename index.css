@@ -205,8 +205,8 @@ body.liked .sign {
 }
 .sign {
   position: absolute;
-  font-size: calc(20px + 12vh);
-  line-height: calc(20px + 14vh);
+  font-size: 4rem;
+  line-height: 4rem;
 
   font-family: "Sacramento", cursive;
   text-align: center;
